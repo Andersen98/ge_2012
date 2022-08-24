@@ -1,0 +1,17 @@
+name: nano-optics-units
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - pip
+  - pytest
+  - pymeep
+  - pymeep-extras
+  - matplotlib
+  - ipython
+  - jupyterlab
+  - myst-nb
+  - jupytext
+  - nodejs
